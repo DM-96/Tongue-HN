@@ -13,7 +13,7 @@ L'app è sviluppata in **HTML, CSS e JavaScript puro**, senza framework come Rea
 ## Caratteristiche
 - Visualizzazione delle **Ultime** e **Top** news.
 - Paginazione con pulsante **Load More**.
-- Layout moderno e responsive con navbar a tab e footer.
+- Layout moderno e responsive con navbar e footer.
 - Facile da estendere o personalizzare.
 
 ---
