@@ -8,6 +8,8 @@ L'app fornisce un’interfaccia semplice e moderna, con la possibilità di caric
 
 L'app è sviluppata in **HTML, CSS e JavaScript puro**, senza framework come React, Angular o Vue.
 
+Per testare app usare il link: https://dm-96.github.io/Tongue-HN/
+
 ---
 
 ## Caratteristiche
