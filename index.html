@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <title>Tongue Hacker News App</title>
+  <link rel="stylesheet" href="Assets/css/style.css">
+</head>
+<body>
+  <!-- Navbar -->
+  <nav>
+    <h1>Tongue HN</h1>
+    <ul class="nav-links">
+      <li class="active" data-type="newstories">Ultime</li>
+      <li data-type="topstories">Top</li>
+    </ul>
+  </nav>
+
+  <!-- Descrizione -->
+  <p class="subtitle">
+    Scopri le ultime notizie dal mondo tech direttamente da Hacker News. 
+    Clicca sulle tab per cambiare sezione!
+  </p>
+
+  <!-- Loader -->
+  <div id="loader" class="hidden">Caricamento...</div>
+
+  <!-- Contenitore news -->
+  <div id="newsContainer"></div>
+
+  <!-- Pulsante Load More -->
+  <button id="loadMore">Load More</button>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2026 Tongue. Fonte notizie: 
+      <a href="https://news.ycombinator.com/" target="_blank">Hacker News</a>
+    </p>
+  </footer>
+
+  <script src="Assets/js/app.js"></script>
+</body>
+</html>
